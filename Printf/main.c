@@ -32,6 +32,7 @@ int main(){
       int m;
       float f;
       double d;
+      printf("Insert your float number : ");
       scanf("%f", &f);
       printf("The float number is : %f\n",f);
       scanf("%lf", &d);
